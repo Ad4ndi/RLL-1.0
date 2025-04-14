@@ -7,3 +7,8 @@ RLL1.0 is designed to improve the free software environment by making the terms 
 
 The RLL1.0 license can be used by ANYONE, as long as they follow its terms and ideology.
 
+```
+License version: RLL1.0
+Created by: Ad4ndi
+Effective date: 2025-04-13
+```
