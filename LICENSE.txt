@@ -1,0 +1,53 @@
+Radical Libre License, Version 1.0 (RLL1.0)
+
+Copyright (c) <year> <name>
+
+The Radical Libre License (RLL1.0) is a public license designed to protect the quality, beauty, and purpose of free software. It promotes a vision of programming as a form of creative, ethical, and academic expression, not as a commodity. Software licensed under RLL1.0 is intended to remain readable, meaningful, and non-commercial. It is based on the philosophy of anarcho-syndicalist openness and rejects the notion of intellectual property in favor of collective contribution.
+
+Terms and Conditions
+
+1. License Inheritance
+   Any derivative works or projects incorporating code licensed under RLL1.0 must also be licensed under RLL1.0. Re-licensing under any other terms is strictly prohibited.
+
+2. Attribution (Optional)
+   Attribution is encouraged but not required. The Radical Libre License views authorship as secondary to the value of collective, purpose-driven creativity.
+
+3. Code Clarity
+   The code must not be intentionally obfuscated. Readability, clarity, and structural elegance are essential. Code that is intentionally cryptic, unreadable, or lacks aesthetic consideration shall be deemed Dead Code and a violation of this license.
+
+4. Purpose Restrictions
+   The software may not be used for:
+     - Military purposes
+     - Commercial exploitation
+     - Advertising
+     - Law enforcement
+     - Surveillance
+   Permitted use includes academic, artistic, educational, research, and activist contexts only.
+
+5. Change Log Requirement
+   All modifications to the original code must include a clear and structured "Change Log" (e.g., a `CHANGES.md` file) that documents:
+     - What was changed
+     - Where it was changed
+     - Why it was changed (rationale and intent)
+   Unexplained modifications or undocumented forks are considered Dead Code and violate this license.
+
+6. Human Authorship Only
+   All code must be written entirely by human authors without the assistance of AI or machine-generated code. Any code authored by non-human systems is considered Dead Code and invalid under this license.
+
+7. Manifest of Purpose
+   Each project licensed under RLL1.0 must include a short manifesto (e.g., a `MANIFEST.md` file) explaining the project’s intended usefulness or artistic/academic value. Projects lacking a declared purpose shall be considered Dead Code.
+
+8. No Propaganda
+   Projects under RLL1.0 must not contain or promote religious or political propaganda. This includes but is not limited to political party endorsements, religious teachings, or ideological agitation. The creative space must remain neutral, inclusive, and focused on contribution and learning.
+
+THE SOFTWARE IS PROVIDED WITH THE STRICT WARRANTY OF MERCHANTABILITY, PERFORMANCE AND NON-INFRINGEMENT. THE AUTHORS OR COPYRIGHT HOLDERS SHALL BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE.
+
+Contact & Identity
+
+This license does not require the naming of individual authors, as authorship is understood as collective. However, if you wish to acknowledge the visionaries behind the RLL1.0, you may cite the following:
+
+Radical Libre License (RLL1.0) was drafted by members of the Libre Anarcho-Syndicalist Software Circle in 2025.
+
+License version: RLL1.0
+Created by: Ad4ndi
+Effective date: 2025-04-13
