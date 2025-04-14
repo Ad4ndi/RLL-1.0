@@ -1,12 +1,12 @@
-Radical Libre License, Version 1.0 (RLL1.0)
+Radical Libre License, Version 1.0 (RLL-1.0)
 
 Copyright (c) 2025 Ad4ndi
 
-The Radical Libre License (RLL1.0) is a public license designed to protect the quality, beauty, and purpose of free software. It promotes a vision of programming as a form of creative, ethical, and academic expression, not as a commodity. Software licensed under RLL1.0 is intended to remain readable, meaningful, and non-commercial. It is based on the philosophy of anarcho-syndicalist openness and rejects the notion of intellectual property in favor of collective contribution.
+The Radical Libre License (RLL-1.0) is a public license designed to protect the quality, beauty, and purpose of free software. It promotes a vision of programming as a form of creative, ethical, and academic expression, not as a commodity. Software licensed under RLL-1.0 is intended to remain readable, meaningful, and non-commercial. It is based on the philosophy of anarcho-syndicalist openness and rejects the notion of intellectual property in favor of collective contribution.
 
 Terms and Conditions
 
-1. Any derivative works or projects incorporating code licensed under RLL1.0 must also be licensed under RLL1.0. Re-licensing under any other terms is strictly prohibited.
+1. Any derivative works or projects incorporating code licensed under RLL-1.0 must also be licensed under RLL-1.0. Re-licensing under any other terms is strictly prohibited.
 
 2. Attribution is encouraged but not required. The Radical Libre License views authorship as secondary to the value of collective, purpose-driven creativity.
 
@@ -28,18 +28,18 @@ Terms and Conditions
 
 6. All code must be written entirely by human authors without the assistance of AI or machine-generated code. Any code authored by non-human systems is considered Dead Code and invalid under this license.
 
-7. Each project licensed under RLL1.0 must include a short manifesto (e.g., a `MANIFEST.md` file) explaining the project’s intended usefulness or artistic/academic value. Projects lacking a declared purpose shall be considered Dead Code.
+7. Each project licensed under RLL-1.0 must include a short manifesto (e.g., a `MANIFEST.md` file) explaining the project’s intended usefulness or artistic/academic value. Projects lacking a declared purpose shall be considered Dead Code.
 
-8. Projects under RLL1.0 must not contain or promote religious or political propaganda. This includes but is not limited to political party endorsements, religious teachings, or ideological agitation. The creative space must remain neutral, inclusive, and focused on contribution and learning.
+8. Projects under RLL-1.0 must not contain or promote religious or political propaganda. This includes but is not limited to political party endorsements, religious teachings, or ideological agitation. The creative space must remain neutral, inclusive, and focused on contribution and learning.
 
 THE SOFTWARE IS PROVIDED WITH THE STRICT WARRANTY OF MERCHANTABILITY, PERFORMANCE AND NON-INFRINGEMENT. THE AUTHORS OR COPYRIGHT HOLDERS SHALL BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE.
 
 Contact & Identity
 
-This license does not require the naming of individual authors, as authorship is understood as collective. However, if you wish to acknowledge the visionaries behind the RLL1.0, you may cite the following:
+This license does not require the naming of individual authors, as authorship is understood as collective. However, if you wish to acknowledge the visionaries behind the RLL-1.0, you may cite the following:
 
-Radical Libre License (RLL1.0) was drafted by members of the Libre Anarcho-Syndicalist Software Circle in 2025.
+Radical Libre License (RLL-1.0) was drafted by members of the Libre Anarcho-Syndicalist Software Circle in 2025.
 
-License version: RLL1.0
+License version: RLL-1.0
 Created by: Ad4ndi
 Effective date: 2025-04-13
