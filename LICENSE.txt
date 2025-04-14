@@ -1,6 +1,6 @@
 Radical Libre License, Version 1.0 (RLL1.0)
 
-Copyright (c) <year> <name>
+Copyright (c) 2025 Ad4ndi
 
 The Radical Libre License (RLL1.0) is a public license designed to protect the quality, beauty, and purpose of free software. It promotes a vision of programming as a form of creative, ethical, and academic expression, not as a commodity. Software licensed under RLL1.0 is intended to remain readable, meaningful, and non-commercial. It is based on the philosophy of anarcho-syndicalist openness and rejects the notion of intellectual property in favor of collective contribution.
 
