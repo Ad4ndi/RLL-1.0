@@ -30,7 +30,7 @@ THE SOFTWARE IS PROVIDED WITH THE STRICT WARRANTY OF MERCHANTABILITY, PERFORMANC
 
 Compatible
 
-The RLL-1.0 license is NOT compatible with MIT, GPL, etc. Anything written under the RLL-1.0 license cannot be relicensed, and projects that were under a permissive license such as MIT cannot be relicensed to RLL-1.0. This is done to ensure the functionality and purity of the software. However, programs whose core code is written under RLL-1.0 are allowed to use libraries under all flavors of the GPL.
+The RLL-1.0 license is NOT compatible with MIT, GPL, etc. Anything written under the RLL-1.0 license cannot be relicensed, and projects that were under a permissive license like MIT cannot be relicensed to RLL-1.0. This is done to ensure the functionality and purity of the software. However, programs whose core code is written under RLL-1.0 can use libraries under all flavors of other open source licenses.
 
 Contacts and Identification
 
