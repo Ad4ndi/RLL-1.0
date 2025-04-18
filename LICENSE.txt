@@ -1,8 +1,8 @@
-Radical Libre License, Version 1.0 (RLL-1.0)
+Reductio Lambda License, Version 1.0 (RLL-1.0)
 
 Copyright (c) 2025 Ad4ndi
 
-The Radical Libre License (RLL-1.0) is a public license designed to protect the quality, beauty, and purpose of free software. It promotes a vision of programming as a form of creative, ethical, and academic expression, rather than as a commodity. Software licensed under the RLL-1.0 must remain readable, meaningful, and non-commercial. It is based on the philosophy of anarcho-syndicalist openness and rejects the notion of intellectual property in favor of collective contribution.
+The Reductio Lambda License (RLL-1.0) is a public license designed to protect the quality, beauty, and purpose of free software. It promotes a vision of programming as a form of creative, ethical, and academic expression, rather than as a commodity. Software licensed under the RLL-1.0 must remain readable, meaningful, and non-commercial. It is based on the philosophy of anarcho-syndicalist openness and rejects the notion of intellectual property in favor of collective contribution.
 
 What is Dead Code
 
@@ -12,7 +12,7 @@ Terms and Conditions
 
 1. Any derivative works or projects incorporating code licensed under RLL-1.0 must also be licensed under RLL-1.0. Sublicensing under any other terms is strictly prohibited.
 
-2. Attribution is encouraged, but not required. The Radical Libre license treats attribution as secondary to the value of collective, purposeful creativity.
+2. Attribution is encouraged, but not required. The Reductio Lambda License treats attribution as secondary to the value of collective, purposeful creativity.
 
 3. Code must not be intentionally obfuscated. Readability, clarity, and structural elegance are critical. Code that is intentionally cryptographic, unreadable, or lacking in aesthetic considerations is considered dead code and violates this license.
 
@@ -36,7 +36,7 @@ Contacts and Identification
 
 This license does not require individual authors to be credited, since the authorship is understood as collective. However, if you want to express gratitude to the authors of RLL-1.0, you can refer to the following:
 
-The Radical Libre License (RLL-1.0) was developed by members of the Libre Anarcho-Syndicalist Software Circle in 2025.
+The Reductio Lambda License (RLL-1.0) was developed by members of the Lambda Axiom Software Circle in 2025.
 
 License Version: RLL-1.0
 Created by: Ad4ndi
