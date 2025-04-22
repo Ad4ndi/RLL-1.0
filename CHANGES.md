@@ -3,3 +3,6 @@
 
 17.04.2025 14:28 =
   The compatibility paragraph has been changed. Compatibility with libraries under other licenses is allowed if the main code is under the RLL-1.0 license.
+
+22.04.2025 19:43 =
+  Added a paragraph on how to document programs and made dead code more objectively designated.
